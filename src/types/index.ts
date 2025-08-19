@@ -1,0 +1,1 @@
+export type Paginated<T> = { data: T[]; links?: any; meta?: any };
